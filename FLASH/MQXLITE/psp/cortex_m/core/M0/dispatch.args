@@ -1,0 +1,16 @@
+-mcpu=cortex-m0
+-mthumb
+-mfloat-abi=soft
+-g3
+-gdwarf-2
+-gstrict-dwarf
+-x assembler-with-cpp
+-I"C:/Users/e882742/Documents/CodeWarrior/Tesla prototype/Generated_Code"
+-I"C:/Users/e882742/Documents/CodeWarrior/Tesla prototype/MQXLITE/include"
+-I"C:/Users/e882742/Documents/CodeWarrior/Tesla prototype/MQXLITE/kernel"
+-I"C:/Users/e882742/Documents/CodeWarrior/Tesla prototype/MQXLITE/psp/cortex_m"
+-I"C:/Users/e882742/Documents/CodeWarrior/Tesla prototype/MQXLITE/psp/cortex_m/core/M0"
+-I"C:/Users/e882742/Documents/CodeWarrior/Tesla prototype/MQXLITE/psp/cortex_m/compiler/cwgcc"
+-Wall
+-c
+-fmessage-length=0
